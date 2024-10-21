@@ -7,3 +7,5 @@
 DA-V1: Additional steps are introduced: resizing the images to 36x36 and center-cropping them to 32x32 in order to standardize the input.
 
 DA-v2: This includes data augmentation techniques to improve generalization and performance.
+
+
